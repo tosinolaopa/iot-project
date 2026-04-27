@@ -1,11 +1,19 @@
-# IoT Project
+# IoT Sensor Data Simulation
 
-This project demonstrates basic Internet of Things (IoT) concepts, including data collection and simple sensor simulation.
+This project simulates an IoT sensor system that collects and processes environmental data.
 
-## What I am learning
-- Python basics
-- Data handling
-- IoT fundamentals
+## Features
+- Simulated sensor data generation
+- Basic data processing
+- Structured Python implementation
 
-## Project status
-This is an ongoing learning project. More updates will be added as I continue building my skills.
+## Tech Stack
+- Python
+
+## Project Structure
+- sensor.py: Simulates sensor data collection
+
+## Future Improvements
+- Add real sensor integration
+- Store data in a database
+- Visualise data with dashboards
