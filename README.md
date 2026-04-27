@@ -1,19 +1,23 @@
 # IoT Sensor Data Simulation
 
-This project simulates an IoT sensor system that collects and processes environmental data.
+This project simulates an IoT sensor system that generates environmental data such as temperature and humidity.
 
 ## Features
-- Simulated sensor data generation
-- Basic data processing
-- Structured Python implementation
+- Random temperature generation
+- Random humidity generation
+- Simulates real-time sensor output
 
-## Tech Stack
+## Technologies
 - Python
 
-## Project Structure
-- sensor.py: Simulates sensor data collection
+## How to Run
+1. Install Python
+2. Run:
+   python sensor.py
 
-## Future Improvements
-- Add real sensor integration
-- Store data in a database
-- Visualise data with dashboards
+## Example Output
+Temperature: 28.5°C, Humidity: 68.2%
+Temperature: 21.8°C, Humidity: 36.7%
+
+## Author
+Your Name
