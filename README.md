@@ -20,4 +20,4 @@ Temperature: 28.5°C, Humidity: 68.2%
 Temperature: 21.8°C, Humidity: 36.7%
 
 ## Author
-Your Name
+Oluwatosin Olaopa 
